@@ -14,7 +14,7 @@ I build end-to-end projects that mirror real-world data workflows: sourcing → 
 - Built trader-class net positioning metrics (Producers, Swap Dealers, Managed Money)
 - Produced interpretable visualizations for market structure analysis
 
-Repo: https://github.com/dhruvsingh14/cftc-gold-analysis
+Repo: https://github.com/dhruvsingh14/cftc-api-demo
 
 ---
 
